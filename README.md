@@ -1,1 +1,3 @@
 # canteensystem
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Java+%2B+MySQL+Project;Canteen+Order+Management+System;JDBC+Console+Application;Built+By+Ankit+Saha" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JDBC-Connectivity-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Project-DBMS-brightgreen?style=for-the-badge"/> </p>
