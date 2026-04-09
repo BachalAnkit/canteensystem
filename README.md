@@ -166,7 +166,7 @@ Top Item: Veg Thali (2)
 
 | Screenshot 1 | Screenshot 2 |
 |---|---|
-| ![Screenshot1](Screenshots/Screenshot1.png) | ![Screenshot2](Screenshots/Screenshot2.png) |
+| ![Screenshot1](canteensystem/Screenshots/Screenshot1.png) | ![Screenshot2](canteensystem/Screenshots/Screenshot2.png) |
 
 ---
 
