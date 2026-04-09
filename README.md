@@ -19,12 +19,12 @@ A console-based **Java + MySQL** application to manage canteen operations — in
 
 ## 📌 Features
 
-- ✅ Add menu items with name and price
-- ✅ Place orders by selecting items from the live menu
-- ✅ Mark orders as served by Order ID
-- ✅ View daily revenue and top-selling item report
-- ✅ MySQL backend with relational table design
-- ✅ Clean console UI with menu-driven navigation
+- • Add menu items with name and price
+- • Place orders by selecting items from the live menu
+- • Mark orders as served by Order ID
+- • View daily revenue and top-selling item report
+- • MySQL backend with relational table design
+- • Clean console UI with menu-driven navigation
 
 ---
 
